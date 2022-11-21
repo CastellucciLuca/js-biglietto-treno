@@ -1,7 +1,7 @@
 .header-txt{
     margin-left: 33%;
     color: red;
-    font-size: 2rem;
+    font-size: 2.1rem;
 }
 body{
     background-image: url(https://www.wallpapertip.com/wmimgs/85-857341_train-rail-5k-laptop-full-hd-1080p-hd.jpg);
@@ -24,5 +24,5 @@ body{
 }
 .box span{
     padding: .4rem;
-    font-size: 2rem;
+    font-size: 1.5rem;
 }
